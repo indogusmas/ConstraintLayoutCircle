@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">constrain</string>
+    <string name="layout_constraint_circle">Layout Constraint Circle</string>
+    <string name="center">Center</string>
+    <string name="_4">4</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+</resources>
